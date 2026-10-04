@@ -1,3 +1,11 @@
+## 支持我们 / Support Us
+
+AURORA_Player 完全免费使用，AI 与高级功能支持 **10 元/月** 或 **98 元买断** 解锁。
+
+如果你喜欢这个播放器，欢迎到爱发电支持我们：
+
+https://afdian.com/a/auroraplay
+
 # AuroraPlay 下载
 
 此仓库用于公开分发 AuroraPlay 的 Windows 安装包、版本说明和 SHA-256 校验文件。播放器源码保留在私有仓库。
